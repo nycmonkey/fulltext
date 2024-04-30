@@ -1,0 +1,10 @@
+github.com/deckarep/golang-set v1.8.0 h1:sk9/l/KqpunDwP7pSjUg0keiOOLEnOBHzykLrsPppp4=
+github.com/deckarep/golang-set v1.8.0/go.mod h1:5nI87KwE7wgsBU1F4GKAw2Qod7p5kyS383rP6+o6qqo=
+github.com/dgryski/go-trigram v0.0.0-20160407183937-79ec494e1ad0 h1:b+7JSiBM+hnLQjP/lXztks5hnLt1PS46hktG9VOJgzo=
+github.com/dgryski/go-trigram v0.0.0-20160407183937-79ec494e1ad0/go.mod h1:qzKC/DpcxK67zaSHdCmIv3L9WJViHVinYXN2S7l3RM8=
+github.com/mozillazg/go-unidecode v0.2.0 h1:vFGEzAH9KSwyWmXCOblazEWDh7fOkpmy/Z4ArmamSUc=
+github.com/mozillazg/go-unidecode v0.2.0/go.mod h1:zB48+/Z5toiRolOZy9ksLryJ976VIwmDmpQ2quyt1aA=
+github.com/nycmonkey/stringy v1.0.0 h1:xkVtuwwtrt7a5pWY+9Xr4Q7JpyCq5YXMTgicb+GKwwk=
+github.com/nycmonkey/stringy v1.0.0/go.mod h1:av7fDZIbEY5tZOP1gO18v22vVtBzklT0lfMxLXyLl+o=
+golang.org/x/text v0.14.0 h1:ScX5w1eTa3QqT8oi6+ziP7dTV1S2+ALU0bI+0zXKWiQ=
+golang.org/x/text v0.14.0/go.mod h1:18ZOQIKpY8NJVqYksKHtTdi31H5itFRjB5/qKTNYzSU=
